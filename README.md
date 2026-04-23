@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @X-B-Wang
-- 👀 I’m interested in geology, primarily biogeochemistry
-- 🌱 I’m currently working on ancient C-N-S-P-Fe systematics, including some of the isotopes
-- 💞️ I’m looking to collaborate on novel methods for tracing the ancient biogeochemical processess
-- 📫 How to reach me: contact me at xubinwang (\at) pku.edu.cn
-- 😄 Pronouns: Masculine
+- 👋 Hi, I’m Xubin Wang at Syracuse University
+- 👀 See me at https://xwang0923.github.io/
+- 🌱 I’m currently working on deep-time environment reconstruction
+- 📫 How to reach me: contact me at xwang408 (\at) syr (\dot) edu
 - ⚡ Fun fact: 230 - 220 / 2 = 5!
 
 <!---
